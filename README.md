@@ -93,10 +93,13 @@ By the end of this book, you’ll have gained the knowledge and skills to design
 </details>
 
 
-<details open> 
-  <summary><h2>Requirements for this book</summary>
-To be filled
-  </details>
+
+  ## Errata
+**Page 194 (Step 2 and Figure 5.67):**
+<p>Among the queries displayed in the left panel, select <code>dim_client</code>, then in the data transformation steps on the right, select the CSV imported step to go back to the step before the modifications were made on the table.</p>
+<p style="font-weight: bold;"><em>Should be</em></p>
+<p>Among the queries displayed in the left panel, select <code>dim_customer</code>, then in the data transformation steps on the right, select the CSV imported step to go back to the step before the modifications were made on the table.</p>
+  
     
 
 
